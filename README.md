@@ -1,6 +1,8 @@
 linuxsbds
 =========
 
+The linux "small-business developers server" installation script
+
 ###description
 
 _The linux "small-business developers server" installation script_
